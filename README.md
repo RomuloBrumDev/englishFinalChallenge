@@ -1,2 +1,0 @@
-# englishFinalChallenge
-Created with CodeSandbox
